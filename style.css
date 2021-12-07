@@ -18,6 +18,15 @@
   margin-top: 0;
   position: relative; */
 }
+.dev-bg {
+  background: #fa447a;
+}
+.graphics-bg {
+  background: #130f32;
+}
+.marketing-bg {
+  background: #00a0c1;
+}
 .container-box {
   border-left: 1px solid #000000;
   border-right: 1px solid #000000;
